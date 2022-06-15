@@ -1,0 +1,27 @@
+/*Star With Style Careers Us*/
+.Careers .con .h1{
+	background:orange;margin-top:0;padding:10px;color:white;font-family:tahoma;
+}
+.Careers .me{border:2px solid orange;width:253px;margin-bottom:30px;margin-top:30px;margin-left:50px;border-radius:10px;}
+.Careers .me .i1{width:250px;height:250px;border:2px solid orange;}
+.Careers .me .p1{margin-left:60px;font-size:20px;color:black;}
+.Careers .me .btn{
+	background:orange;margin-left:70px;margin-bottom:20px;margin-top:30px;width:100px;
+	color:white;font-family:tahoma;font-size:15px;border-radius:10px;padding:10px;
+}
+.const{margin-bottom:30px;border:2px solid orange;width:1000px;margin-left:150px;}
+.const .bor1 .h1{
+	font-size:20px;text-align:center;border-bottom:2px solid orange;width:970px;
+	margin-bottom:20px;color:black;
+}
+.const .bor2, .bor3 label{margin-left:50px;margin-bottom:50px;color:black}
+.const .bor2 input, .bor3 input{
+	margin-left:120px;border:2px solid orange;border-radius:10px;width:400px;padding:10px;
+	COLOR:BLACK;font-size:20px;font-style:italic;
+}
+.const .bor3 input{margin-left:70px;}
+.const .bor4 a{font-size:25px;text-decoration:underline;color:orange;}
+.const .bor4 {margin-bottom:40px;margin-left:30px}
+.const .bor5  .end1{background:orange;color:white;}
+.const .bor5 .end1,.end2{margin-bottom:30px;width:150px;padding:10px;border-radius:10px;margin-left:410px;}
+.const .bor5 .end2:hover{background:orange;opacity:0.6;}

@@ -1,0 +1,44 @@
+body{
+	overflow-x:hidden;opacity:1.5;
+}
+.nav1{padding:15px 15px 0px 15px;border-bottom:3px solid orange;}
+.lnks a{
+	margin:10px;font-size:15px;text-decoration:none;
+	color:orange;opacity:0.4px;
+}
+.lnks #li1:hover{
+	background-color:#ebe6e6;opacity:0.5;padding:23px 5px 23px 5px;
+}
+.lnks input[type="search"]{
+	border:2px solid #987102;border-radius:7px;padding:10px;width:130px;
+	background-color:#eee;
+}
+.nav2{border-bottom:3px solid orange;}
+.nav2 p{font-size:15px;font-family:bold}
+.nav2 .im1{width:350px;height:90px;margin-left:70px;margin-top:10px;}
+.nav2 div img{width:70px;height:70px;margin-top:10px;}
+.nav2  .im2{margin-left:125px;}
+.nav2  .im3{margin-left:50px;}
+
+
+.Comcarousel1{background-color:orange;}
+.Comcarousel1 .act2 a img{
+	width:100px;height:50px;margin-top:10px;
+}
+.Comcarousel1 .act2 p{font-size:25px;margin-left:10px;margin-top:8px;color:#00AAf88}
+.Comcarousel1 .act0{border-right:2px solid white;}
+.Comcarousel1 .act2:hover{background-color:#ff006a63;opacity:0.5;}
+.carouSlid{margin-top:35px;margin-bottom:35px;}
+.carouSlid .itte{width:200px;height:90px;margin-bottom:20px;margin-top:25px;}
+.carouSlid #Ch1{text-align:justify;font-size:15px;color:black;}
+.carouSlid .item .btn{margin-top:20px;}
+
+
+.EndFooter{margin-left:80px;margin-top:25px;color:black;}
+.EndFooter .h1{color:orange;font-size:20px;}
+.EndFooter .med1 ol{font-size:15px;line-height:2;}
+.EndFooter .med1 ol>li:hover{color:gray;cursor:pointer;}
+.EndFooter .med2{margin-top:15px;}
+.EndFooter .chanImg img{width:30px;height:30px;cursor:pointer;}
+.CopyRi .mediachan{background-color:orange;margin-top:35px;}
+.CopyRi .mediachan .h1{font-size:15px;color:white;float:right;margin-right:100px;}

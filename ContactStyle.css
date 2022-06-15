@@ -1,0 +1,25 @@
+/*Star With Style Contact Us*/
+.contactus h2{color:black;}
+.contactus p{color:black;font-size:20px;}
+.contactus .h1{
+	background:orange;color:#ffffff;margin-top:0;
+	padding:8px;font-family:tahoma;
+}
+.contactus div .con1{
+	border-bottom:2px solid black;width:1000px;margin-top:5px;
+	margin-bottom:40px;
+}
+.Contact .opt1, .opt2{
+	border:2px solid orange;border-radius:10px;padding:7px;
+	margin-bottom:30px;width:400px;color:#aaa;
+}
+.Contact .opt2{margin-right:10px;}
+.Contact .textare{
+	border:2px solid orange;border-radius:10px;padding:15px;
+	text-indent:10px;height:100px;width:850px;margin-bottom:25px;color:#aaa;
+	font-size:20px;
+}
+.Contact .btn{
+	background:orange;border-radius:10px;width:150px;margin-left:50px;
+}
+.Contact .btn:hover{margin-left:70px;opacity:0.8;}

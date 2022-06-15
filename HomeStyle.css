@@ -1,0 +1,13 @@
+.Comcarousel{margin-left:90px;}
+.Comcarousel .act1{
+	background-color:orange;width:300px;height:50px;
+}
+.Comcarousel .act1:hover{opacity:0.7;}
+.act1 #a1{
+	margin-left:15px;font-size:25px;text-decoration:none;color:white;
+}
+.act1 .btn{float:right;margin-top:7px;text-decoration:underline;}
+.carousel-inner .ite2{width:100%;max-height:450px;}
+.carousel-caption{margin-bottom:150px;}
+.carousel-caption .int{width:200px;height:90px;}
+.carousel-caption .lead{font-style:italic;color:#f3f3f3;}

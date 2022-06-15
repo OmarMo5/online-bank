@@ -1,0 +1,18 @@
+/*Star With Style About Us*/
+.org{margin-top:10px;margin-bottom:30px;}
+.org .orgInner img{width:100%;max-height:300px;background-size:cover;}
+.org .orgInner h1{margin-left:200px;}
+.aboutUs .TheFirst .he1{
+	border:2px solid white;border-radius:7px;background:#100b03;
+	text-indent:10px;color:#eee;font-size:20px;
+}
+.aboutUs{margin-bottom:25px;}
+.aboutUs .TheFirst p{
+	background:#445044;margin:0;text-indent:10px;border-bottom:2px solid #987102;
+	padding:8px;color:white;
+}
+.aboutUs .TheFirst p:hover{	opacity:0.5;}
+.aboutUs .Answer{
+	text-align:justify;text-indent:20px;font-size:15px;font-style:oblique;font-size:26px;color:black;
+	font-family:font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
